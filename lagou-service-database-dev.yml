@@ -3,6 +3,6 @@ config:
 spring:
   database: 
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://106.54.45.57:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    jdbc-url: jdbc:mysql://106.54.45.57:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
     password: BJ123@mysql
