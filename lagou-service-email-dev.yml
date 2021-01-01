@@ -1,3 +1,5 @@
+config:
+  info: "bsy branch, lagou-config-repo/lagou-service-email-dev.yml version=0.0.1"
 spring:
   mail:
     password: laxntmvcqysigchh
