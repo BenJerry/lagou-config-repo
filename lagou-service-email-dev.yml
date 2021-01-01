@@ -1,0 +1,8 @@
+spring:
+  mail:
+    password: laxntmvcqysigchh
+    host: smtp.qq.com
+    username: 1092056970@qq.com
+    port: 25
+    protocol: smtp
+    default-encoding: UTF-8
