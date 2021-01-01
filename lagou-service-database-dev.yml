@@ -2,6 +2,7 @@ config:
   info: "bsy branch, lagou-config-repo/lagou-service-database-dev.yml version=0.0.1"
 spring:
   database: 
+    type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://106.54.45.57:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
